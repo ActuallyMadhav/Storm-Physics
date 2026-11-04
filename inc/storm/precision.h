@@ -6,7 +6,7 @@
 
 #include <float.h>
 
-namespace cyclone {
+namespace storm {
 
 #if 0
     /**
